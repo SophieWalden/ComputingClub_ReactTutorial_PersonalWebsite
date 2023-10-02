@@ -10,7 +10,7 @@ function App() {
             <div id="main-content">
               <div id="about">
                   <h2>About Me</h2>
-                  <p>University of Maine Computer Scientist, just making some fun websites on the side!</p>
+                  <p><span className="blueColor">University of Maine</span> <span className="greenColor">Computer Scientist</span>, just making some fun websites on the side!</p>
               </div>
               <div id="portfolio">
                   <h2>Portfolio</h2>

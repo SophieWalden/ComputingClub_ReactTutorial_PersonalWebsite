@@ -34,6 +34,14 @@
   align-items: center;
 }
 
+.blueColor{
+  color: darkblue;
+}
+
+.greenColor{
+  color: darkred;
+}
+
 #portfolio div{
   display: flex;
   width: 50vw;
