@@ -1,8 +1,10 @@
 .App {
   text-align: center;
-  font-family: 'Martian Mono', monospace;
-font-family: 'Roboto', sans-serif;
+  font-family: 'Poppins', sans-serif;
+
 }
+
+
 
 .App-logo {
   height: 40vmin;
@@ -38,7 +40,6 @@ font-family: 'Roboto', sans-serif;
   height: 3vh;
   align-items: center;
   justify-content: center;
-
 }
 
 #portfolio h3{

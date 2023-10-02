@@ -15,9 +15,9 @@ function App() {
               <div id="portfolio">
                   <h2>Portfolio</h2>
 
-                  <div><h3>Genetic Algorithim Neural Nets: </h3>   <a href="https://github.com/SophieWalden/selfDrivingCarGeneticAlgo"> https://github.com/SophieWalden/selfDrivingCarGeneticAlgo</a></div>
-                  <div><h3>CNotes: </h3>   <a href="https://github.com/SophieWalden/CNotes"> https://github.com/SophieWalden/CNotes</a></div>
-                  <div><h3>Tower Defense Game: </h3>   <a href="https://github.com/SophieWalden/Block-Tower-Defense"> https://github.com/SophieWalden/Block-Tower-Defense</a></div>
+                  <div className="portfolioLink"><a href="https://github.com/SophieWalden/selfDrivingCarGeneticAlgo"><h3>Genetic Algorithim Neural Nets </h3></a></div>
+                  <div className="portfolioLink"><a href="https://github.com/SophieWalden/CNotes"> <h3>CNotes </h3> </a></div>
+                  <div className="portfolioLink"> <a href="https://github.com/SophieWalden/Block-Tower-Defense"><h3>Tower Defense Game: </h3> </a></div>
 
               </div>
               <div id="contact">
