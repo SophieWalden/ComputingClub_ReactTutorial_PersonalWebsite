@@ -10,6 +10,8 @@ function App() {
             <div id="main-content">
               <div id="about">
                   <h2>About Me</h2>
+
+                  <img src="https://umaine.edu/wp-content/themes/umaine/assets/images/temp-umaine-logo@2x.png"></img>
                   <p><span className="blueColor">University of Maine</span> <span className="greenColor">Computer Scientist</span>, just making some fun websites on the side!</p>
               </div>
               <div id="portfolio">
